@@ -1,0 +1,168 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://ongcenh.github.io/icons/sileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:15pt;\"> Tất cả pin của bạn, trong nháy mắt</p>\n<p style=\"font-size:10pt;\">  kai sẽ hiển thị bất kỳ thiết bị Bluetooth nào cung cấp thông tin về pin, nghĩa là bạn có thể kiểm tra pin của điện thoại, đồng hồ, AirPods và vỏ AirPods của mình, tất cả đều từ màn hình khóa.  Nhanh chóng và dễ dàng.</p>\n<p style=\"font-size:15pt;\"> Khả năng tương thích</p>\n<p style=\"font-size:10pt;\"> kai hoạt động với rất nhiều tinh chỉnh trên màn hình khóa, chẳng hạn như Kalm, Grupi, Axon, Quart, Complication, Water dưa hấu, Veza, QuickLS, Jellyfish, và nhiều hơn thế nữa!</p>\n<p style=\"font-size:15pt;\"> Làm cho nó thành của bạn</p>\n<p style=\"font-size:10pt;\"> kai đi kèm với vô số tùy chọn tùy chỉnh, vì vậy bạn có thể tinh chỉnh cài đặt của mình để phù hợp với bạn và thiết lập của bạn.</p>\n<p style=\"font-size:15pt;\"> Lớn và đậm, hoặc nhỏ và đơn giản</p>\n<p style=\"font-size:10pt;\"> kai cung cấp hai tùy chọn chính để hiển thị thông tin pin.  (a) Chế độ dọc, để làm cho kai phù hợp với thông báo của bạn và (b) chế độ ngang, một chế độ không phô trương, có thể cuộn và nhỏ không chiếm nhiều không gian trên màn hình khóa hơn mức cần thiết.</p>\n<p style=\"font-size:15pt;\"> Danh sách tính năng / tùy chọn đầy đủ</p>\n<p style=\"font-size:10pt;\"> - Tùy chọn để ẩn các hình ảnh động sạc trang tính lớn của chế độ xem pin trên màn hình khóa</p>\n<p style=\"font-size:10pt;\"> - Hiển thị tất cả hoặc chỉ thiết bị sạc trên kai</p>\n<p style=\"font-size:10pt;\"> - Tùy chọn để luôn hiển thị các thiết bị Bluetooth và điện thoại chỉ khi đang sạc</p>\n<p style=\"font-size:10pt;\"> - Tùy chọn để ẩn glyphs của thiết bị trên các ô kai</p>\n<p style=\"font-size:10pt;\"> - Tùy chọn để ẩn nhãn phần trăm trên các ô kai</p>\n<p style=\"font-size:10pt;\"> -  Tùy chọn để ẩn nhãn tên thiết bị trên các ô kai</p>\n<p style=\"font-size:10pt;\"> - Tùy chọn hai trục, chế độ dọc hoặc chế độ ngang</p>\n<p style=\"font-size:10pt;\"> - Chọn giữa chế độ thích ứng, sáng hoặc tối cho các ô của kai</p>\n<p style=\"font-size:10pt;\"> - Chọn giữa văn bản thích ứng, màu trắng hoặc màu đen cho các nhãn trên ô của kai</p>\n<p style=\"font-size:10pt;\"> - Chọn căn chỉnh kai sang trái, phải hoặc chính giữa cho chế độ dọc</p>\n<p style=\"font-size:10pt;\"> - Tùy chọn hiển thị kai trên hoặc dưới trình phát nhạc</p>\n<p style=\"font-size:10pt;\"> - Điều chỉnh chiều cao ô kai</p>\n<p style=\"font-size:10pt;\"> - Điều chỉnh chiều rộng biểu ngữ kai</p>\n<p style=\"font-size:10pt;\"> - Điều chỉnh khoảng cách giữa các ô kai theo chiều dọc</p>\n<p style=\"font-size:10pt;\"> - Điều chỉnh khoảng cách giữa các ô kai theo chiều ngang</p>\n<p style=\"font-size:10pt;\"> - Tùy chọn bù đắp thủ công cho trục x</p>\n<p style=\"font-size:10pt;\"> - Điều chỉnh kích thước glyph của thiết bị</p>\n<p style=\"font-size:10pt;\"> - Điều chỉnh bán kính góc ô kai</p>\n<p style=\"font-size:10pt;\"> - Điều chỉnh độ mờ nền tế bào kai alpha</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 586}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/kai/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/kai/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/kai/screenshots/3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "burrit0z",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.5.1",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "12.0 - 14.8",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "319 KB",
+          "title": "Dung lượng"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/profile.php?id=100052119013281",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@ongcenh)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/aminhdz",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@ongcenh)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://ongcenh.github.io/icons/logo2.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.5.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

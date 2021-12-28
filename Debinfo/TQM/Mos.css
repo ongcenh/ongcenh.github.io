@@ -1,0 +1,12 @@
+body {
+}
+
+.btn-outline {
+    color:#fff;
+    font-size: 15px;
+    border: solid 2px #a3c1d5;
+    background: transparent;
+    transition: all 0.3s ease-in-out;
+    margin-top: 15px;
+}
+

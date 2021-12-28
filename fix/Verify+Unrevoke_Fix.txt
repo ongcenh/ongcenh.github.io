@@ -1,0 +1,5 @@
+ocsp.apple.com
+world-gen.g.aaplimg.com
+mesu.apple.com
+ocsp.usertrust.com
+ocsp.digicert.com

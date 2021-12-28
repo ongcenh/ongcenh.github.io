@@ -1,0 +1,180 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://ongcenh.github.io/icons/sileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\"> Xác định lại Trung tâm điều khiển của bạn </p>\n<p style=\"font-size:10pt;\"> Magma Evo là một tinh chỉnh tùy chỉnh có nhiều tính năng dành cho Trung tâm điều khiển của bạn.  Từ việc thay đổi màu sắc của mọi mô-đun đến việc sắp xếp lại các nút chuyển đổi Kết nối của bạn đến loại bỏ nền vùng chứa tối xung quanh các mô-đun - hầu hết mọi thứ đều có thể thực hiện được!  Đây là phiên bản kế nhiệm chính thức của Magma Pro, với nhiều tính năng hơn, sửa lỗi và tăng độ thân thiện với người dùng.  Nó hỗ trợ tất cả các mô-đun cổ phiếu trên iOS 12 và 13, cùng với tất cả các mô-đun từ cả CCModules, PowerModule và Prysm. </p>\n<p style=\"font-size:15pt;\"> Danh sách tính năng đầy đủ: </p>\n<p style=\"font-size:13pt;\"> Kết nối chuyển đổi </p>\n<p style=\"font-size:10pt;\"> - Sắp xếp lại thứ tự (không hoạt động với Prysm) </p>\n<p style=\"font-size:10pt;\"> - Thay đổi các màu đã bật / tắt </p>\n<p style=\"font-size:10pt;\"> - Chế độ chỉ glyph để loại bỏ các lớp phủ hình tròn xung quanh các nút bật tắt đã bật </p>\n<p style=\"font-size:13pt;\"> Launcher & Toggles </p>\n<p style=\"font-size:10pt;\"> - Thay đổi các màu đã bật / tắt cho từng mô-đun đơn lẻ </p>\n<p style=\"font-size:10pt;\"> - Chọn giữa ba cách để hiển thị bật tắt đã bật: cổ phiếu, nền trắng đã xóa hoặc nền màu </p>\n<p style=\"font-size:13pt;\"> Điều khiển phương tiện </p>\n<p style=\"font-size:10pt;\"> - Tiêu đề màu, họa sĩ, các nút điều khiển và thanh tiến trình </p>\n<p style=\"font-size:10pt;\"> - Tùy chọn để tô màu tiện ích trên màn hình khóa </p>\n<p style=\"font-size:13pt;\"> Thanh trượt </p>\n<p style=\"font-size:10pt;\"> - Tô màu riêng cho cả nền và biểu tượng </p>\n<p style=\"font-size:13pt;\"> Điều khoản khác </p>\n<p style=\"font-size:10pt;\"> - Tô màu nền của Trung tâm điều khiển </p>\n<p style=\"font-size:10pt;\"> - Căn chỉnh Trung tâm điều khiển xuống dưới cùng thay vì trên cùng </p>\n<p style=\"font-size:10pt;\"> - Ẩn thanh trạng thái </p>\n<p style=\"font-size:10pt;\"> - Tô màu thanh trạng thái </p>\n<p style=\"font-size:13pt;\"> Nhìn chung </p>\n<p style=\"font-size:10pt;\"> - Tô màu hoặc ẩn nền tối xung quanh mọi mô-đun </p>\n<p style=\"font-size:10pt;\"> Magma Evo cũng có tính năng đặt trước mở rộng cho phép bạn dễ dàng lưu thiết lập hiện tại của mình, thử các cài đặt khác và thay đổi lại sau.  Bạn cũng có thể dễ dàng nhập cài đặt từ những người dùng khác và chuyển đổi giữa chúng hoặc xuất một trong các cài đặt trước của bạn để chia sẻ với mọi người.  Ngoài ra, bạn có thể đặt giá trị đặt trước làm mặc định cho chế độ sáng / tối của iOS, vì vậy bất cứ khi nào chế độ của bạn chuyển đổi, giá trị đặt trước của bạn cũng tự động chuyển theo.  Trong trường hợp bạn vẫn đang sử dụng iOS 12, điều này cũng hoạt động với Noctis12! </p>\n<p style=\"font-size:10pt;\"> Tương thích với BetterCCXI và Prysm.  Không tương thích với BetterCCIcons, Togglow hoặc Gesto.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 586}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/magmaevo/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/magmaevo/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/magmaevo/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/magmaevo/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/magmaevo/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/magmaevo/screenshots/6.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "NoisyFlake",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.0.10",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "12.0 - 14.8",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.6 MB",
+          "title": "Dung lượng"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/profile.php?id=100052119013281",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@ongcenh)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/aminhdz",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@ongcenh)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://ongcenh.github.io/icons/logo2.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0.10",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

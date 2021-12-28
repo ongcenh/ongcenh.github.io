@@ -1,0 +1,24 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Theo dõi Twitter</name>
+			<url>https://twitter.com/AMinhdz</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Hỗ trợ qua email</name>
+			<url>anhminh311105@gmail.com</url>
+			<iconclass>fa fa-mail</iconclass>
+		</link>
+		<link>
+	    <name>Ủng hộ tôi cốc Beer</name>
+	    <url>https://www.paypal.me/tranquangminh2202</url>
+			<iconclass>fa fa-paypal</iconclass>
+	  </link>
+		<link>
+			<name>Theo dõi Facebook</name>
+			<url>https://www.facebook.com/profile.php?id=100052119013281</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+	</footerlinks>
+</repo>

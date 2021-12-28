@@ -1,0 +1,48 @@
+* {
+	-webkit-border-radius: 10px;
+	line-height: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	border: 0;
+	text-decoration: none;
+}
+
+body {
+	font-family: -apple-system-font, 'Helvetica Neue', Helvetica, Arial;
+	width: 100%;
+	max-width: 320px;
+	margin: 0 auto;
+	padding: 0;
+	background: #efeff4;
+}
+
+fieldset {
+	background-color: #fff;
+	margin: 8px 0;
+}
+
+fieldset > a, fieldset > div, fieldset > textarea {
+	padding: 10px 15px;
+
+}
+
+img.icon {
+	height: auto;
+	max-height: 30px;
+	max-width: 30px;
+}
+
+fieldset > a > img.icon {
+	margin: -5px 10px -9px 0px;
+}
+
+fieldset > a {
+	color: inherit;
+	display: block;
+
+}
+
+fieldset > div > div, fieldset > a > div {
+	display: inline-block;
+}
