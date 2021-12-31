@@ -4,8 +4,8 @@
   "author": "",
   "version": "",
   "dependency": "N/A",
-  "minOSVersion": "5.0",
-  "maxOSVersion": "14.8",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "12.5.5",
   "otheriOS": "untested",
   "description": "",
   "changelog": {
