@@ -155,7 +155,7 @@
                   time: '0.3s',
                   mixColor: '#fff',
                   backgroundColor: '#fff',
-                  buttonColorDark: '#100f2c',
+                  buttonColorDark: '#000',
                   buttonColorLight: '#fff',
                   label: '',
                   saveInCookies: true,
