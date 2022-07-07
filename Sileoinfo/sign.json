@@ -1,0 +1,146 @@
+
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://ongcenh.github.io/icons/sileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\"> Ứng dụng đã được kí dùng mãi mãi như 1 app mặc định </p>\n<p style=\"font-size:10pt;\"> Đóng gói bởi : Trần Quang Minh</p>\n<p style=\"font-size:12pt;\"> Chú ý : có thể 1 số thiết bị sẽ không phù hợp.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 330}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ongcenh.github.io/Debinfo/sign/screenshots/1.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Quang Minh",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14.0 - Trở Nên",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/tranquangminh0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@quangminh)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/aminhdz",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@tqmmos)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://ongcenh.github.io/icons/logo2.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Phiên bản mới nhất",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Phiên bản mới nhất</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}
