@@ -4,7 +4,7 @@
   "author": "",
   "version": "",
   "dependency": "N/A",
-  "minOSVersion": "9.0",
+  "minOSVersion": "14.0",
   "maxOSVersion": "100",
   "otheriOS": "untested",
   "description": "",
